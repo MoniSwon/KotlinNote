@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NoteKotlin</string>
+    <string name="ton_application_note">Ton Application Note</string>
 </resources>
